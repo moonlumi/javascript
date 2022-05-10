@@ -1,0 +1,52 @@
+body{
+    font-family: 'Signika Negative', sans-serif;
+    color: aliceblue;
+    background-image: url("dark.jpg");
+    background-repeat: no-repeat;
+}
+
+p{
+ font-size: 50px;
+ margin-left: 350px;
+ font-weight: bold;
+
+}
+
+
+h1{
+    
+    font-size: 4rem;
+    /* border: 2px solid rgb(41, 138, 138); */
+    padding: 2 rem;
+    /* display: inline ; */
+    text-align: center;
+}
+h2{
+    font-size: 3rem;
+    /* border: 2px solid rgb(41, 138, 138); */
+    padding: 10px;
+    text-align: center;
+}
+
+button{
+    font-size: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 10px;
+    border-radius: 5px;
+    margin-left: 630px;
+    
+}
+#inc_button{
+    background-color: rgb(219, 17, 17);
+    /* border: 2px solid blue; */
+    
+}
+
+#save_button{
+    background-color: rgb(36, 215, 50);
+    /* border: 2px solid blue; */
+    
+}
